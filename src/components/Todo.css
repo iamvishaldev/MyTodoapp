@@ -1,0 +1,11 @@
+.completed {
+  text-decoration: overline;
+}
+.CheckboxStyle {
+  margin-bottom: 10px;
+}
+
+.styleItem {
+  display: flex;
+  justify-content: space-between;
+}
